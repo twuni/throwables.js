@@ -1,1 +1,1 @@
-import '@babel/polyfill';
+// This space intentionally left blank.
